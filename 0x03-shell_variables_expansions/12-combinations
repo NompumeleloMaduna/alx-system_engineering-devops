@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {a..z}(?!oo){a..z}
+echo (?!oo)[a-z][a-z]
